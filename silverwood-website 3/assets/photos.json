@@ -1,0 +1,191 @@
+[
+  {
+    "src": "assets/living-room-welcome-polished.webp",
+    "thumb": "assets/living-room-welcome-polished-thumb.webp",
+    "category": "rooms",
+    "title": "A place to settle in",
+    "alt": "Shared living area with a white sofa, blue cushions, a television, and adjoining dining space"
+  },
+  {
+    "src": "assets/front-exterior-oct26-polished.webp",
+    "thumb": "assets/front-exterior-oct26-polished-thumb.webp",
+    "category": "garden",
+    "title": "Welcome to Silverwood",
+    "alt": "Front of the blue Silverwood home with white entrance steps and a driveway"
+  },
+  {
+    "src": "assets/dining-corner-polished.webp",
+    "thumb": "assets/dining-corner-polished-thumb.webp",
+    "category": "rooms",
+    "title": "Gather around",
+    "alt": "Dining table and wood chairs beside blue and white curtains"
+  },
+  {
+    "src": "assets/backyard-garden-oct26-polished.webp",
+    "thumb": "assets/backyard-garden-oct26-polished-thumb.webp",
+    "category": "garden",
+    "title": "Our backyard, in autumn",
+    "alt": "Backyard patio and blue house with a raised garden bed and outdoor seating"
+  },
+  {
+    "src": "assets/living-room-tv-corner-polished.webp",
+    "thumb": "assets/living-room-tv-corner-polished-thumb.webp",
+    "category": "rooms",
+    "title": "Everyday comforts",
+    "alt": "Living-room television corner, cream seating, and glass doors leading outdoors"
+  },
+  {
+    "src": "assets/bedroom-daily-comfort-polished.webp",
+    "thumb": "assets/bedroom-daily-comfort-polished-thumb.webp",
+    "category": "rooms",
+    "title": "Comfort in the details",
+    "alt": "Bedroom with a bedside cabinet, overbed table, wall-mounted television, and walking frame"
+  },
+  {
+    "src": "assets/ramp-and-sign-oct26-polished.webp",
+    "thumb": "assets/ramp-and-sign-oct26-polished-thumb.webp",
+    "category": "access",
+    "title": "A welcoming way in",
+    "alt": "White-railed access ramp beside the Silverwood business sign"
+  },
+  {
+    "src": "assets/patio-seating-oct26-polished.webp",
+    "thumb": "assets/patio-seating-oct26-polished-thumb.webp",
+    "category": "garden",
+    "title": "A seat in the sunshine",
+    "alt": "Turquoise patio chairs and a table beside the blue house"
+  },
+  {
+    "src": "assets/side-entrance-ramp-oct26-polished.webp",
+    "thumb": "assets/side-entrance-ramp-oct26-polished-thumb.webp",
+    "category": "access",
+    "title": "Around the home",
+    "alt": "Side entrance and white-railed ramp beside the blue house"
+  },
+  {
+    "src": "assets/ramp-detail-oct26-polished.webp",
+    "thumb": "assets/ramp-detail-oct26-polished-thumb.webp",
+    "category": "access",
+    "title": "Along the garden ramp",
+    "alt": "View along the white ramp railing toward the garden patio"
+  },
+  {
+    "src": "assets/garden-path-oct26-polished.webp",
+    "thumb": "assets/garden-path-oct26-polished-thumb.webp",
+    "category": "access",
+    "title": "The path to the patio",
+    "alt": "Side walkway beside the home leading toward the garden seating area"
+  },
+  {
+    "src": "assets/patio-approach-oct26-polished.webp",
+    "thumb": "assets/patio-approach-oct26-polished-thumb.webp",
+    "category": "access",
+    "title": "A little fresh air",
+    "alt": "Walkway and ramp handrail with a view of the patio and autumn trees"
+  },
+  {
+    "src": "assets/patio-closeup-oct26-polished.webp",
+    "thumb": "assets/patio-closeup-oct26-polished-thumb.webp",
+    "category": "garden",
+    "title": "Time to slow down",
+    "alt": "Garden table and turquoise chairs with a closed umbrella beside the home"
+  },
+  {
+    "src": "assets/backyard-wide-oct26-polished.webp",
+    "thumb": "assets/backyard-wide-oct26-polished-thumb.webp",
+    "category": "garden",
+    "title": "Room to breathe",
+    "alt": "Wide backyard view showing the home, patio, lawn, and raised planting beds"
+  },
+  {
+    "src": "assets/garden-terrace-oct26-polished.webp",
+    "thumb": "assets/garden-terrace-oct26-polished-thumb.webp",
+    "category": "garden",
+    "title": "Garden moments",
+    "alt": "Patio seating and garden terrace with autumn plants and a blue house"
+  },
+  {
+    "src": "assets/bedroom-polished.webp",
+    "thumb": "assets/bedroom-polished-thumb.webp",
+    "category": "rooms",
+    "alt": "A welcoming shared room with wood beds, seating, and teal curtains"
+  },
+  {
+    "src": "assets/patio-polished.webp",
+    "thumb": "assets/patio-polished-thumb.webp",
+    "category": "garden",
+    "alt": "Sunny garden patio with a table, umbrella, and flowering plants"
+  },
+  {
+    "src": "assets/garden-overlook-polished.webp",
+    "thumb": "assets/garden-overlook-polished-thumb.webp",
+    "category": "garden",
+    "alt": "A garden with flowering shrubs and a quiet outdoor seating area"
+  },
+  {
+    "src": "assets/sunny-garden-polished.webp",
+    "thumb": "assets/sunny-garden-polished-thumb.webp",
+    "category": "garden",
+    "alt": "A sunny lawn surrounded by mature trees and garden beds"
+  },
+  {
+    "src": "assets/room-seating-polished.webp",
+    "thumb": "assets/room-seating-polished-thumb.webp",
+    "category": "rooms",
+    "alt": "Comfortable bedroom seating beside a bright window"
+  },
+  {
+    "src": "assets/garden-ramp-polished.webp",
+    "thumb": "assets/garden-ramp-polished-thumb.webp",
+    "category": "access",
+    "alt": "Steps and white handrails leading down toward the garden patio"
+  },
+  {
+    "src": "assets/flowers-polished.webp",
+    "thumb": "assets/flowers-polished-thumb.webp",
+    "category": "garden",
+    "alt": "Colorful flowers growing along the home\u2019s garden path"
+  },
+  {
+    "src": "assets/side-garden-polished.webp",
+    "thumb": "assets/side-garden-polished-thumb.webp",
+    "category": "garden",
+    "alt": "Landscaped garden beside the home"
+  },
+  {
+    "src": "assets/home-exterior-polished.webp",
+    "thumb": "assets/home-exterior-polished-thumb.webp",
+    "category": "garden",
+    "alt": "Home exterior framed by greenery"
+  },
+  {
+    "src": "assets/yard-polished.webp",
+    "thumb": "assets/yard-polished-thumb.webp",
+    "category": "garden",
+    "alt": "Sunny yard with trees and flower beds"
+  },
+  {
+    "src": "assets/room-window-polished.webp",
+    "thumb": "assets/room-window-polished-thumb.webp",
+    "category": "rooms",
+    "alt": "Bedroom with natural light and teal curtains"
+  },
+  {
+    "src": "assets/bedroom-view-polished.webp",
+    "thumb": "assets/bedroom-view-polished-thumb.webp",
+    "category": "rooms",
+    "alt": "A view of the shared bedroom and comfortable seating"
+  },
+  {
+    "src": "assets/shared-room-polished.webp",
+    "thumb": "assets/shared-room-polished-thumb.webp",
+    "category": "rooms",
+    "alt": "Twin beds and bedside storage in a bright room"
+  },
+  {
+    "src": "assets/garden-view-polished.webp",
+    "thumb": "assets/garden-view-polished-thumb.webp",
+    "category": "garden",
+    "alt": "Garden plants, greenery, and outdoor seating"
+  }
+]
